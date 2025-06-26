@@ -170,21 +170,24 @@ php artisan optimize
 ## 🎯 Roadmap
 
 ### Version 1.0 (Current)
+- ✅ Authentication system
+- ✅ Groups and ministries
 - ✅ Member management system
-- ✅ Church groups and ministries
-- ✅ Event scheduling
+- ✅ Staff & volunteer management
 - ✅ Attendance tracking
-- ✅ Staff and volunteer management
+- ✅ Event scheduling
+- ✅ Donations & Finance
 - ✅ Admin dashboard interface
 - ✅ Email notifications
-- ✅ API documentation
+- ✅ API documentation (Laravel Scribe)
 
-### Version 1.1 (Planned)
+### Version 2.1 (Planned)
+- Accounting and financial reports
 - 📱 Mobile app (React Native)
 - 📊 Advanced reporting and analytics
 - 💬 Internal messaging system
 - 📧 Bulk email campaigns
-- 🔗 Third-party integrations (PayPal, Stripe)
+- 🔗 Third-party integrations (Paystack, Flutterwave)
 
 ### Version 2.0 (Future)
 - 📱 Mobile-first responsive design
